@@ -1,0 +1,22 @@
+body{
+    /*background-image: url(assets/pictures.jpg);*/
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: auto;
+    font-weight: 500;
+}
+form{
+    width: 100%;
+    
+}
+.container{
+    width: 100%;
+    margin: 3.125rem auto 0 auto;;
+}
+.text-center{
+    text-align: center;
+}
+#description{
+    font-style: italic;
+}
